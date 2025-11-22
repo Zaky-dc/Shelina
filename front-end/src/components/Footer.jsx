@@ -69,7 +69,7 @@ function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-accent shrink-0" />
-                <span>contato@drashelina.com</span>
+                <span>shelinamamade@gmail.com</span>
               </li>
             </ul>
           </div>
